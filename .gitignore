@@ -1,0 +1,7 @@
+files/*
+file/
+/venv/
+.idea
+.env
+
+
